@@ -2,7 +2,7 @@
 ## The **demo_ResNet_ImageClassification.ipynb** shows following process: <br>
 **1. Create train and test data.**
 
-Our source data consists of 50 grass images and 50 wood images downloaded from the internet. Due to size limitations, we are unable to upload them to the repository. Initially, it should look like this:
+Our source data consists of 50 grass images and 50 wood images downloaded from the internet. Due to size limitations, we are unable to upload them to the repository. Initially, it should look like this: <span style="color: red;">(In order to run the notebook, you need to prepare your own grass and wood images folder under the same directory with this notebook)</span>
 <div style="text-align: center;">
     <img src="readme1.png" alt="Sample Image" width="200" />
 </div>
